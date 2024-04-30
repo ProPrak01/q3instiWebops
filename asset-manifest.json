@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/q3instiWebops/static/css/main.f855e6bc.css",
+    "main.js": "/q3instiWebops/static/js/main.51d7ecee.js",
+    "static/js/453.f9c2f079.chunk.js": "/q3instiWebops/static/js/453.f9c2f079.chunk.js",
+    "index.html": "/q3instiWebops/index.html",
+    "main.f855e6bc.css.map": "/q3instiWebops/static/css/main.f855e6bc.css.map",
+    "main.51d7ecee.js.map": "/q3instiWebops/static/js/main.51d7ecee.js.map",
+    "453.f9c2f079.chunk.js.map": "/q3instiWebops/static/js/453.f9c2f079.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.51d7ecee.js"
+  ]
+}
